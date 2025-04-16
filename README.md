@@ -5,7 +5,7 @@ aggregatation of `notes_*` repositories
 
 - [repo TEMPLATE](https://github.com/AlekOmOm/notes_TEMPLATE)
 
-Fields:
+Notes:
 - [DevOps](https://github.com/AlekOmOm/notes_DevOps)
 - [Python](https://github.com/AlekOmOm/python-learning-notes)
 - [Node.JS](https://github.com/AlekOmOm/notes_NodeJS)
