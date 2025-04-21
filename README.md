@@ -7,6 +7,7 @@ aggregatation of `notes_*` repositories
 
 Notes:
 - [DevOps](https://github.com/AlekOmOm/notes_DevOps)
+    - [whoknows](https://github.com/AlekOmOm/notes_Whoknows-DevOps-project)
 - [Python](https://github.com/AlekOmOm/python-learning-notes)
 - [Node.JS](https://github.com/AlekOmOm/notes_NodeJS)
     - [Svelte learning](https://github.com/AlekOmOm/Svelte-learning-notes)
